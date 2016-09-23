@@ -1,3 +1,3 @@
 # hello_world
-just another repository
+just another repository.
 this is a test github.
